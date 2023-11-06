@@ -1,4 +1,4 @@
-Covid Multiclass Classification form CT Scan images  using VGG19 and EfficientNetB2
+Covid Multiclass Classification form CT Scan images  using VGG19 and EfficientNetB2![image](https://github.com/fenchi-riti/Covid-Multiclass-Classification-form-CT-scan-images-EfficientNetB2-VGG19-/assets/72839436/b58517f3-6e34-4126-aa15-852f01833897)
 
 **Background**: 
 - Covid-19 merupakan salah satu jenis penyakit menular yang disebabkan oleh virus SARS-CoV-2 yang pertama kali muncul di Wuhan-Cina pada tahun 2019. Berdasarkan data dari WHO, hingga saat ini masih terdapat kasus Covid dan kasus orang meninggal karena Covid.
