@@ -1,4 +1,4 @@
-Project Akhir-IndonesiaAi
+Final Project-IndonesiaAI
 ![image](https://github.com/fenchi-riti/Covid-Multiclass-Classification-form-CT-scan-images-EfficientNetB2-VGG19-/assets/72839436/b58517f3-6e34-4126-aa15-852f01833897)
 
 **Background**: 
